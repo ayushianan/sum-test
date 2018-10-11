@@ -1,9 +1,7 @@
 #include<stdio.h>
-#include<conio.h>
-
 int main()
 {
-  int a,b;
+  float a,b;
   printf("enter two no.\n");
   scanf("%d%d",&a,&b)
   printf("sum = %d",a+b);
